@@ -23,13 +23,11 @@ public class Solution {
                 
             }else{
                 elements.Add(i.ToString());
-
             }
         }
         return elements;
     }
 }
-
 
 
 public class Solution {
