@@ -22,7 +22,7 @@ public class Solution {
                 elements.Add("Fizz");
                 
             }else{
-                elements.Add($"{i}");
+                elements.Add(i.ToString());
 
             }
         }
