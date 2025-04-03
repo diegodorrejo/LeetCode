@@ -4,7 +4,6 @@
 public class Solution {
     public int NumberOfSteps(int num) {
         int steps = 0;
-        bool isZero = false;
 
         while(num != 0){
             if(num % 2 == 0){
